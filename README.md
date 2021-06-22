@@ -13,4 +13,5 @@ Welcome to Pace college for Data science using python program
 * 16/06/2021 Dictionary [link](https://transcripts.gotomeeting.com/#/s/ab127f99fb1ca19028a3a80e8e363e7a045ca20ec2a7ba3cfd7fd1281c0e3772)
 * 17/06/2021 Functions [link](https://transcripts.gotomeeting.com/#/s/62c79579a2c30a29f9f4a7d483d27d32ae21a8bf1b5815b8b96d603a0450d49c)
 * 19/06/2021 Python Programs [link](https://transcripts.gotomeeting.com/#/s/3baed29bd30bece61716439bf8f1aae1deea57a11377140bafe7640a80f7efdf)
+* 21/06/2021 Python Programs [link](https://transcripts.gotomeeting.com/#/s/585aece5d65da74e74395670675982896dc4159ded051fe444e60118a0a08808)
 
