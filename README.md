@@ -2,9 +2,10 @@
 Welcome to Pace college for Data science using python program
 
 
-# Registered data and attendance: [Link](https://docs.google.com/spreadsheets/d/13MbDecOIT_6_Y13Zyu7wvC9zTx5KuaoPZoF3rzhn3Iw/edit?usp=sharing)
-
-# Markdown cheat sheet: [Link](https://www.markdownguide.org/cheat-sheet/)
+### Registered data and attendance: [Link](https://docs.google.com/spreadsheets/d/13MbDecOIT_6_Y13Zyu7wvC9zTx5KuaoPZoF3rzhn3Iw/edit?usp=sharing)
+### Markdown cheat sheet: [Link](https://www.markdownguide.org/cheat-sheet/)
+### Scikit-Learn [Link](https://scikit-learn.org/stable/)
+### Kaggle [Link](https://www.kaggle.com/)
 
 # Videos link
 * 12/06/2021 String [link](https://transcripts.gotomeeting.com/#/s/9d9afa94aed37a757a31d0d27d33ad6aa39d46f2864188df9576f95f64d74477)
